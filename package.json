@@ -23,5 +23,11 @@
   "dependencies": {
     "jquery": "^2.2.1",
     "seamless-immutable": "^5.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
   }
 }
