@@ -1,0 +1,23 @@
+{
+  "name": "hal",
+  "version": "0.0.1",
+  "description": "A super simple MVC framework utilizing immutable data and a single data store. Named after my cat Hal, the simplest creature I've ever encountered.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianlafond/hal.git"
+  },
+  "keywords": [
+    "mvc",
+    "simple"
+  ],
+  "author": "Adrian Lafond <_@adrianlafond.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianlafond/hal/issues"
+  },
+  "homepage": "https://github.com/adrianlafond/hal"
+}
