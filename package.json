@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/adrianlafond/hal/issues"
   },
-  "homepage": "https://github.com/adrianlafond/hal"
+  "homepage": "https://github.com/adrianlafond/hal",
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "seamless-immutable": "^5.0.1"
+  }
 }
